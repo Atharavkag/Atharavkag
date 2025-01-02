@@ -38,7 +38,7 @@
 - 👯 I'm eager to connect with others who share my passion for cloud and DSA. I’m open to collaborating on projects, discussing new technologies, or simply sharing knowledge and insights.
 - 🤔 I'm always looking to learn and grow, and I welcome discussions and feedback on my understanding of cloud and DSA principles. 
 - 💬 Ask me about cloud computing fundamentals, different cloud service models, common algorithm design paradigms, or anything related to problem-solving and efficient coding.
-- 📫 How to reach me: [Your preferred contact method - e.g., email, LinkedIn].
+- 📫 How to reach me:atharavkagde7@gmail.com.
 - 😄 Pronouns:He/Him
 - ⚡ I enjoy participating in online coding challenges.
 
